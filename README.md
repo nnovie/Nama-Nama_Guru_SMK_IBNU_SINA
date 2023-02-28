@@ -7,44 +7,44 @@
   <body>
   <table border="1">
   <tr>
-    <th>Adlim Firson,S.Pd.Ind</th>
-    <th>Sriono,S.Pd</th>
-    <th>Rikhi Maida Lestari,S.Pd</th>
-    <th>Aslan,S.Ag</th>
+    <th>ADLIM FIRSON,S.Pd.Ind</th>
+    <th>SRIONO,S.Pd</th>
+    <th>RIKHI MAIDA LESTARI,S.Pd</th>
+    <th>ASLAN,S.Ag</th>
     <th>Drs.YASRIL</th>
     <th>DARNIS,S.Pd</th>
-    <th>Doni Isnu Wardana,S.E</th>
-    <th>Yuli Africi,S.T</th>
-    <th>Joko Santoso</th>
-    <th>Sarwono Edi,S.Pd</th>
-    <th>Adi Yosra,S.Pd</th>
-    <th>Angga Geovano Putra,S.Kom</th>
+    <th>DONI ISNU WARDANAH,S.E</th>
+    <th>YULI AFRICI,S.T</th>
+    <th>JOKO SANTOSO</th>
+    <th>SARWONO EDI,S.Pd</th>
+    <th>ADI YOSRA,S.Pd</th>
+    <th>ANGGA PUTRA GEOVANO,S.Kom</th>
 </tr>
   <tr>
-    <th>Sofia Rice,S.S</th>
-    <th>Rosmawati,S.Pd</th>
-    <th>Rismaidawati,S.Pd</th>
-    <th>Lisa Sapriani,S.Pd</th>
-    <th>Sabianri Albi,S.Pd</th>
-    <th>Elda Lumaisa,S.Pd</th>
-    <th>Sumarhadi,S.Ip</th>
-    <th>Vitno Adrian,S.Pd</th>
-    <th>Megawati,S.Pd</th>
-    <th>Ramayana,S.Pd</th>
-    <th>Diatul Iqbal,S.Kom</th>
+    <th>SOFIA RICE,S.S</th>
+    <th>ROSMAWATI,S.Pd</th>
+    <th>RISMAIDAWATI,S.Pd</th>
+    <th>LISA SAPRIANI,S.Pd</th>
+    <th>SABIANRI ALBI,S.Pd</th>
+    <th>ELDA LUMAISA,S.Pd</th>
+    <th>SUMARHADI,S.Ip</th>
+    <th>VITNO ADRIAN,S.Pd</th>
+    <th>MEGAWATI,S.Pd</th>
+    <th>RAMAYANA,S.Pd</th>
+    <th>DIATUL IQBAL,S.Kom</th>
   </tr>
   <tr>
-    <th>Syaiful Bahrizal,A.Md</th>
-    <th>Riska Nur FAuziah,S.Pd.I</th>
-    <th>Feri Antoni,S.Pd</th>
-    <th>Kiki Krista Eri Saputra,S.Pd</th>
-    <th>Norimar Junita,S.Pd</th>
-    <th>Jaka Utama</th>
-    <th>Desryan Hildayana,S.Pd,M.Pd.E</th>
-    <th>Robin Japika,S.Pd</th>
-    <th>Jefri Pradana,S.kom</th>
-    <th>Kemal B. Wibisana,S.F</th>
-    <th>Syamsul Bahri,S.Pd</th>
+    <th>SYAIFUL BAHRIZAL,A.Md</th>
+    <th>RISKA NUR FAUIAH,S.Pd.I</th>
+    <th>FERI ANTONI,S.Pd</th>
+    <th>KIKI KRISTA ERI SAPUTRA,S.Pd</th>
+    <th>NORIMAR JUNITA,S.Pd</th>
+    <th>JAKA UTAMA</th>
+    <th>DESRYAN HILDAYANA,S.Pd,M.Pd.E</th>
+    <th>ROBIN JAPIKA,S.Pd</th>
+    <th>JEFRI PRADANA,S.kom</th>
+    <th>KEMAL B. WIBISANA,S.F</th>
+    <th>SYAMSUL BAHRI,S.Pd</th>
   </tr>
 </body>
 </html>
