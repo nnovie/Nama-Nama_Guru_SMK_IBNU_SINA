@@ -12,7 +12,8 @@
     <th>Sriono,S.Pd</th>
     <th>Rikhi Maida Lestari,S.Pd</th>
     <th>Aslan,S.Ag</th>
-    <th>Drs.YASRIL</td>DARNIS,S.Pd</th>
+    <th>Drs.YASRIL</th>
+    <th>DARNIS,S.Pd</th>
     <th>Doni Isnu Wardana,S.E</th>
     <th>Yuli Africi,S.T</th>
     <th>Joko Santoso</th>
