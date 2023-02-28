@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    
   <title>Nama-nama Guru SMK IBNU SINA KOTA BATAM</title>
   </head>
   <body>
