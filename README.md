@@ -12,6 +12,7 @@
       <th>Guru Bahasa Inggris</th>
       <th>Guru Pendidikan Agama Islam</th>
       <th>Guru Pemrograman Produktif AP</th>
+      <th>Wali Kelas XII PM</th>
       <th>Guru Pemrograman Produktif AK</th>
       <th>Guru Pemrograman Produktif AK</th>
       <th>Guru Pemrograman Produktif AK</th>
