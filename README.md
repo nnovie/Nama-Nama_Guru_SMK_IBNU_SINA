@@ -31,6 +31,7 @@
       <th>Wali Kelas X RPL A</th>
       <th>Wali Kelas XI U</th>
       <th>Guru Pemrograman Produktif RPL A</th>
+      <th>Kepala Sekolah SMK IBNU SINA Kota Batam</th>
   </tr>
   <tr>
       <th>Wali Kelas OT B</th>
