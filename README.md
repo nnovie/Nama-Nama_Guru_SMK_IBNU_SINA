@@ -21,8 +21,6 @@
       <th>Guru Produk Kreatif dan Kewirausahaan</th>
       <th>Guru Pemrograman Produktif AK</th>
       <th>Wali Kelas RPL B</th>
-  </tr>
-  <tr>
       <th>Wali Kelas AP XII</th>
       <th>Guru XI TKR A & B</th>
       <th>Guru XII TKR A & B</th>
@@ -34,8 +32,6 @@
       <th>Wali Kelas X RPL A</th>
       <th>Wali Kelas XI U</th>
       <th>Guru Pemrograman Produktif RPL A</th>
-  </tr>
-  <tr>
       <th>Wali Kelas OT B</th>
       <th>Wali Kelas X AP</th>
       <th>Guru Pemrograman Produktif</th>
@@ -61,32 +57,28 @@
       <th>SARWONO EDI,S.Pd</th>
       <th>ADI YOSRA,S.Pd</th>
       <th>ANGGA PUTRA GEOVANO,S.Kom</th>
-  </tr>
-  <tr>
-    <th>SOFIA RICE,S.S</th>
-    <th>ROSMAWATI,S.Pd</th>
-    <th>RISMAIDAWATI,S.Pd</th>
-    <th>LISA SAPRIANI,S.Pd</th>
-    <th>SABIANRI ALBI,S.Pd</th>
-    <th>ELDA LUMAISA,S.Pd</th>
-    <th>SUMARHADI,S.Ip</th>
-    <th>VITNO ADRIAN,S.Pd</th>
-    <th>MEGAWATI,S.Pd</th>
-    <th>RAMAYANA,S.Pd</th>
-    <th>DIATUL IQBAL,S.Kom</th>
-  </tr>
-  <tr>
-    <th>SYAIFUL BAHRIZAL,A.Md</th>
-    <th>RISKA NUR FAUIAH,S.Pd.I</th>
-    <th>FERI ANTONI,S.Pd</th>
-    <th>KIKI KRISTA ERI SAPUTRA,S.Pd</th>
-    <th>NORIMAR JUNITA,S.Pd</th>
-    <th>JAKA UTAMA</th>
-    <th>DESRYAN HILDAYANA,S.Pd,M.Pd.E</th>
-    <th>ROBIN JAPIKA,S.Pd</th>
-    <th>JEFRI PRADANA,S.kom</th>
-    <th>KEMAL B. WIBISANA,S.F</th>
-    <th>SYAMSUL BAHRI,S.Pd</th>
+      <th>SOFIA RICE,S.S</th>
+      <th>ROSMAWATI,S.Pd</th>
+      <th>RISMAIDAWATI,S.Pd</th>
+      <th>LISA SAPRIANI,S.Pd</th>
+      <th>SABIANRI ALBI,S.Pd</th>
+      <th>ELDA LUMAISA,S.Pd</th>
+      <th>SUMARHADI,S.Ip</th>
+      <th>VITNO ADRIAN,S.Pd</th>
+      <th>MEGAWATI,S.Pd</th>
+      <th>RAMAYANA,S.Pd</th>
+      <th>DIATUL IQBAL,S.Kom</th>
+      <th>SYAIFUL BAHRIZAL,A.Md</th>
+      <th>RISKA NUR FAUIAH,S.Pd.I</th>
+      <th>FERI ANTONI,S.Pd</th>
+      <th>KIKI KRISTA ERI SAPUTRA,S.Pd</th>
+      <th>NORIMAR JUNITA,S.Pd</th>
+      <th>JAKA UTAMA</th>
+      <th>DESRYAN HILDAYANA,S.Pd,M.Pd.E</th>
+      <th>ROBIN JAPIKA,S.Pd</th>
+      <th>JEFRI PRADANA,S.kom</th>
+      <th>KEMAL B. WIBISANA,S.F</th>
+      <th>SYAMSUL BAHRI,S.Pd</th>
   </tr>
 </body>
 </html>
